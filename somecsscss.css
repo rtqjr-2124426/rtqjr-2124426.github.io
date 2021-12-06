@@ -1,0 +1,37 @@
+#para1{
+    border: solid 8px black;
+    background-color: #8E41D5;
+    color: #FFBC00;
+    font-size: 20px;
+    font-family: "Passion One";
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 4px;
+}
+
+#para2{
+    border: solid 8px black;
+    background-color: #8E41D5;
+    color: #FFBC00;
+    font-size: 20px;
+    font-family: "Cinzel";
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#three{
+    color: #FFBC00;
+    font-size: 20px;
+    border: solid 4px;
+    text-decoration: underline overline;
+    text-align: center;
+}
